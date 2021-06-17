@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\kokoa 2021"
+	},
+	{
+		"path": "..\\kokoa clone"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kokoa 2021"
+  }
+}

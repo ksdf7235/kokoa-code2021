@@ -39,7 +39,8 @@
   justify-content: center;
   align-items: center;
   font-size: 122px;
-  animation: hideSplashScreen 1s ease-in-out forwards;
+  animation: hideSplashScreen 0.3s ease-in-out forwards;
+  animation-delay: 1s;
 }
 
 @keyframes hideSplashScreen {

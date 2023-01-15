@@ -1,17 +1,18 @@
-.Screen__header {
+.screen-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: var(--horiznetal-space);
   padding-top: 40px;
   opacity: 90%;
+  margin-bottom: 1rem;
 }
 
-.Screen__header__title {
+.screen-header__title {
   font-size: 28px;
   font-weight: 600;
 }
 
-.Screen__header__icons {
+.screen-header__icons {
   margin-left: 25px;
 }
